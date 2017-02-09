@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Anew\n"
+"POT-Creation-Date: 2015-02-06 15:00+0100\n"
+"PO-Revision-Date: 2016-10-16 18:51+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr "你访问的页面不存在或已被移除，请尝试搜索其它内容。"
+
+#: ../comments.php:7
+msgid "No Responses"
+msgstr "没有回响"
+
+#: ../comments.php:7
+msgid "1 Response"
+msgstr "1 条回响"
+
+#: ../comments.php:7
+msgid "% Responses"
+msgstr "% 条回响"
+
+#: ../comments.php:10
+msgid "Comments"
+msgstr "评论"
+
+#: ../comments.php:11
+msgid "Pingbacks"
+msgstr "引用"
+
+#: ../content.php:37
+msgid "More"
+msgstr "更多"
+
+#: ../footer.php:60
+msgid "All Rights Reserved."
+msgstr "版权所有"
+
+# 不翻译
+#: ../footer.php:66
+msgid "Powered by"
+msgstr ""
+
+# 不翻译
+#: ../footer.php:66
+msgid "Theme by"
+msgstr ""
+
+#: ../search.php:11
+msgid "Sorry, no posts matched your criteria. Try again with some other terms."
+msgstr "抱歉，没有找到符合你要求的文章。请尝试搜索其它内容。"
+
+#: ../searchform.php:3
+msgid "To search type and hit enter"
+msgstr "输入内容并按回车键搜索"
+
+#: ../sidebar.php:9
+msgid "Expand Sidebar"
+msgstr "展开侧边栏"
+
+#: ../single.php:37
+msgid "Pages:"
+msgstr "页面："
+
+#: ../single.php:40
+msgid "Tags:"
+msgstr "标签："
+
+#: ../functions/widgets/alx-tabs.php:27
+msgid "Recent Posts"
+msgstr "近期文章"
+
+#: ../functions/widgets/alx-tabs.php:28
+msgid "Popular Posts"
+msgstr "热门文章"
+
+#: ../functions/widgets/alx-tabs.php:29
+msgid "Recent Comments"
+msgstr "近期评论"
+
+#: ../functions/widgets/alx-tabs.php:30
+msgid "Tags"
+msgstr "常用标签"
+
+#: ../functions/widgets/alx-tabs.php:187
+msgid "says:"
+msgstr "回复："
+
+#: ../inc/page-title.php:10
+msgid "Result"
+msgstr "结果"
+
+#: ../inc/page-title.php:12
+msgid "Results"
+msgstr "结果"
+
+#: ../inc/page-title.php:15
+msgid "for"
+msgstr "关于"
+
+#: ../inc/page-title.php:20
+msgid "Error 404."
+msgstr "错误 404"
+
+#: ../inc/page-title.php:20
+msgid "Page not found!"
+msgstr "页面不存在！"
+
+#: ../inc/page-title.php:25
+msgid "Author:"
+msgstr "作者："
+
+#: ../inc/page-title.php:28
+msgid "Category:"
+msgstr "目录："
+
+#: ../inc/page-title.php:36
+msgid "Tagged:"
+msgstr "标签："
+
+#: ../inc/page-title.php:39
+msgid "Daily Archive:"
+msgstr "按日归档："
+
+#: ../inc/page-title.php:42
+msgid "Monthly Archive:"
+msgstr "按月归档："
+
+#: ../inc/page-title.php:45
+msgid "Yearly Archive:"
+msgstr "按年归档："
+
+#: ../inc/page-title.php:48 ../inc/page-title.php:50 ../inc/page-title.php:52
+#: ../inc/page-title.php:54 ../inc/page-title.php:56 ../inc/page-title.php:58
+#: ../inc/page-title.php:60 ../inc/page-title.php:62 ../inc/page-title.php:64
+msgid "Type:"
+msgstr "形式："
+
+#: ../inc/page-title.php:48
+msgid "Audio"
+msgstr "音频"
+
+#: ../inc/page-title.php:50
+msgid "Aside"
+msgstr "日志"
+
+#: ../inc/page-title.php:52
+msgid "Chat"
+msgstr "聊天"
+
+#: ../inc/page-title.php:54
+msgid "Gallery"
+msgstr "相册"
+
+#: ../inc/page-title.php:56
+msgid "Image"
+msgstr "图像"
+
+#: ../inc/page-title.php:58
+msgid "Link"
+msgstr "链接"
+
+#: ../inc/page-title.php:60
+msgid "Quote"
+msgstr "引语"
+
+#: ../inc/page-title.php:62
+msgid "Status"
+msgstr "状态"
+
+#: ../inc/page-title.php:64
+msgid "Video"
+msgstr "视频"
+
+#: ../inc/post-nav.php:3
+msgid "Next"
+msgstr "下一篇"
+
+#: ../inc/post-nav.php:4
+msgid "Previous"
+msgstr "上一篇"
